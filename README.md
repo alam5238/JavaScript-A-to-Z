@@ -16,10 +16,11 @@ Full guide and lesson about JavaScript include in this repository
 - Everyone can use JavaScript without purchasing a license
 
 ###### Why Study JavaScript?
+
 - JavaScript is one of the 3 languages all web developers must learn:
-  - HTML to define the content of web pages.
-  - CSS to specify the layout of web pages.
-  - JavaScript to program the behavior of web pages.
+  - HTML to define the content of web pages
+  - CSS to specify the layout of web pages.
+  - JavaScript to program the behavior of web pages.
   
 ###### Are Java and JavaScript the Same? 
 - NO!
