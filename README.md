@@ -49,6 +49,73 @@ Full guide and lesson about JavaScript include in this repository
 - Form validation
 - Many others …
 
+## How to Put a JavaScript Into an HTML Page?
+Use <script></script> html tag and script type are text/javascript for putting or including a JavaScript into HTML pages.
+
+###### Examples:
+```
+<script type="text/javascript">
+document.write("Hello World!")
+</script>
+```
+
+###### Here are the full code:
+```
+<html>
+<body>
+<script type="text/javascript">
+document.write("Hello World!")
+</script>
+</body>
+</html> 
+```
+
+## Embedding JavaScript into HTML page?
+Use **src** html tag attribute for putting or including a JavaScript into HTML pages.
+
+###### Examples:
+```
+<script language=“JavaScript” src=“your_source_file.js”></script>
+```
+
+###### Here are the full code:
+```
+<html>
+<head>
+<title>First JavaScript Program</title>
+</head>
+<body>
+<script language=“JavaScript” src=“your_source_file.js”></script>
+</body>
+</html>
+ 
+```
+
+## JavaScript Commenting:
+
+- Used this `<!–` for begin hiding JavaScript and by End hiding JavaScript use `-->`
+- For single-line comment use `//` 
+- For multiple-line comment use `/* … */`
+
+###### Examples:
+```
+<script language=“JavaScript”>
+<!– begin hiding JavaScript
+// single-line comment, /* … */ multiple-line comment
+End hiding JavaScript -->
+</script>
+```
+
+## Hide JavaScript from incompatible browsers?
+Use `<noscript></noscript>` tag for hide JavaScript from incompatible browsers.
+
+###### Examples:
+```
+<noscript>
+Your browser does not support JavaScript.
+</noscript>
+```
+
 
 
 
