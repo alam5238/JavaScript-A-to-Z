@@ -17,9 +17,9 @@ Full guide and lesson about JavaScript include in this repository
 
 ###### Why Study JavaScript?
 - JavaScript is one of the 3 languages all web developers must learn:
-  - HTML to define the content of web pages
-  - CSS to specify the layout of web pages
-  - JavaScript to program the behavior of web pages
+  - HTML to define the content of web pages.
+  - CSS to specify the layout of web pages.
+  - JavaScript to program the behavior of web pages.
   
 ###### Are Java and JavaScript the Same? 
 - NO!
@@ -27,6 +27,9 @@ Full guide and lesson about JavaScript include in this repository
 - Java (developed by Sun Microsystems) is a powerful and much more complex programming language - in the same category as C and C++.
 
 ###### JavaScript vs. PHP
+
+![Screenshort](images/PHP-vs-JavaScript.png "PHP-vs-JavaScript")
+
 - Similarities:
   - both are interpreted, not compiled
   - both are relaxed about syntax, rules, and types
@@ -44,6 +47,8 @@ Full guide and lesson about JavaScript include in this repository
 - Replace images on a page without reload the page
 - Form validation
 - Many others …
+
+
 
 
 
